@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Shehab! 👋
 
-<!--
-**AhmedShehab/AhmedShehab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Backend Developer with 2+ years of experience in **Django, Python, InfluxDB, and Celery**.
+- 🌊 Specialized in **water data analysis**, working with sensors, leakage detection, and consumption insights.
+- 🛠️ Experienced in **Docker, MySQL, PostgreSQL, and Redis**.
+- 🔎 Currently seeking **remote backend engineering roles** in Europe and the US.
+- 🌍 Based in **Egypt** 🇪🇬.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Frameworks & Libraries:** Django, Django REST Framework  
+- **Databases:** PostgreSQL, MySQL, InfluxDB  
+- **Tools:** Docker, Celery, Redis, Git, Linux  
+- **Other:** APIs, Data Processing, Task Scheduling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+- Email: your.email@example.com
+- Portfolio: [Your Website](https://yourportfolio.com)
+
+---
+
+⭐️ **Fun Fact:** _"I love working with complex data problems and always enjoy optimizing backend logic!"_
+
