@@ -15,7 +15,7 @@
 - **Other:** APIs, Data Processing, Task Scheduling  
 
 ## 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedShehab&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
