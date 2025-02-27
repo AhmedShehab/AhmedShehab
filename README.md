@@ -1,11 +1,7 @@
 # Hi there, I'm Ahmed Shehab! 👋
 
 ## 🚀 About Me
-- 💻 Backend Developer with 3+ years of experience in **Django, Python, InfluxDB, and Celery**.
-- 🌊 Specialized in **water data analysis**, working with sensors, leakage detection, and consumption insights.
-- 🛠️ Experienced in **Docker, MySQL, PostgreSQL, and Redis**.
-- 🔎 Currently seeking **remote backend engineering roles** in Europe and the US.
-- 🌍 Based in **Egypt** 🇪🇬.
+
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL  
