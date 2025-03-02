@@ -13,7 +13,7 @@ Back-End Engineer with a BSc in Computer and Systems Engineering (graduated 3rd 
 ## 🏆 Projects  
 - **[Genetic Algorithm-Based Exam Generation System](https://github.com/AhmedShehab/ExamGenerator)** – Developed an AI-driven exam generator optimizing question selection using genetic algorithms.  
 - **[E-Learning Web Application for Control Systems](https://github.com/AhmedShehab/control_simulator)** – Built an interactive education platform with simulation tools for control theory concepts.
-- **[PyAnnotator – Multi-Backend - **Annotation Tool (In Progress)](https://github.com/AhmedShehab/pyannotator)** – Developed a Python package for managing image annotations across multiple external annotation tools. Implemented the **Factory Pattern** to dynamically select annotation backends (Supervisely, Roboflow, Label Studio). Used the **Adapter Pattern** to unify different backend APIs under a single interface. Enabled project creation, image uploads, and annotation downloads through a unified API.
+- **[PyAnnotator – Multi-Backend - Annotation Tool (In Progress)](https://github.com/AhmedShehab/pyannotator)** – Developed a Python package for managing image annotations across multiple external annotation tools. Implemented the **Factory Pattern** to dynamically select annotation backends (Supervisely, Roboflow, Label Studio). Used the **Adapter Pattern** to unify different backend APIs under a single interface. Enabled project creation, image uploads, and annotation downloads through a unified API.
 
 
 ## 📚 Education  
