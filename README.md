@@ -23,6 +23,5 @@ Back-End Engineer with a BSc in Computer and Systems Engineering (graduated 3rd 
 
 ## 📫 Connect with Me  
 - **LinkedIn:** [linkedin.com/in/ahmed4ehab](https://www.linkedin.com/in/ahmed4ehab)  
-- **GitHub:** [github.com/AhmedShehab](https://github.com/AhmedShehab)  
 - **Email:** ahmed4ehab@yahoo.com  
 - **Phone:** +20 1554992081  
