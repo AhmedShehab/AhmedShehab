@@ -1,46 +1,50 @@
-# Hi there, I'm Ahmed Shehab! 👋  
-**Back-End Engineer | Django Specialist | Automation Enthusiast**
+# Hi, I'm Ahmed Shehab 👋
 
-I'm a senior-leaning Back-End Engineer obsessed with building tools that make developers' lives easier. I specialize in high-performance Python/Django systems, database optimization, and CI/CD automation.
+**Back-End Engineer focused on Django, automation, and scalable systems**
 
----
-
-## 🏆 Featured Project: [django-migraid](https://github.com/AhmedShehab/django-migraid)
-**My most powerful asset yet.** A CLI toolkit to detect, diagnose, and auto-fix Django migration problems in complex Git workflows.
-
-### 🚀 Why it matters:
-Django migration conflicts are the "hidden tax" of parallel development. `django-migraid` eliminates this tax by automating the painful parts of migration management.
-
-### 🛠️ Technical Deep Dive:
-- **AST Rewriting:** Uses **LibCST** to safely modify migration files (renumbering, dependency updates) without breaking formatting or comments.
-- **DAG Analysis:** Implements custom graph algorithms to detect circular dependencies and multiple leaf nodes.
-- **Git Integration:** Deeply integrated with **GitPython** to understand branch state and provide "rebase-aware" migration fixes.
-- **Database Safety:** Features a transactional `--update-db` engine that renames `django_migrations` rows in sync with file changes, preventing `InconsistentMigrationHistory` errors.
+I build backend tools and infrastructure with a focus on developer experience, performance, and maintainability. Most of my work revolves around Python/Django applications, database optimization, and workflow automation.
 
 ---
 
-## 🛠️ Tech Stack  
-- **Backend:** Python, Django, DRF, Django Channels, Uvicorn, Celery
-- **Database:** PostgreSQL, MySQL, InfluxDB, Redis, AWS RDS, Query Optimization
-- **Infrastructure:** AWS (EC2, S3, Lambda, ELB, CloudFront, IAM, ASG), Docker
-- **Automation:** GitHub Actions, Git, CI/CD Pipelines, Automated Testing
+## Featured Project — [django-migraid](https://github.com/AhmedShehab/django-migraid)
+
+A CLI toolkit for detecting and resolving Django migration issues in collaborative Git workflows.
+
+### Highlights
+
+* Uses **LibCST** for safe migration file rewriting while preserving formatting and comments.
+* Implements dependency graph analysis to detect circular dependencies and conflicting migration states.
+* Integrates with **GitPython** to provide branch-aware migration handling.
+* Includes transactional database synchronization to help avoid `InconsistentMigrationHistory` issues.
 
 ---
 
-## 📂 Other Notable Projects  
-- **[PyAnnotator](https://github.com/AhmedShehab/pyannotator)** – Multi-backend annotation tool using **Factory** and **Adapter** patterns to unify APIs from Supervisely, Roboflow, and Label Studio.
-- **[Control Simulator](https://github.com/AhmedShehab/control_simulator)** – Interactive E-Learning platform for control theory with real-time simulation tools.
-- **[AI Exam Generator](https://github.com/AhmedShehab/ExamGenerator)** – AI-driven system using **Genetic Algorithms** to optimize question selection and paper generation.
+## Tech Stack
+
+* **Backend:** Python, Django, DRF, Django Channels, Celery
+* **Databases:** PostgreSQL, MySQL, Redis, InfluxDB
+* **Infrastructure:** AWS (EC2, S3, Lambda, RDS, CloudFront), Docker
+* **Automation & DevOps:** GitHub Actions, CI/CD, automated testing
 
 ---
 
-## 📚 Education & Achievements
-- **BSc in Computer and Systems Engineering** – Minia University (Graduated 3rd in class with honors)
-- **Specialization:** System Architecture & Performance Enhancement
+## Other Projects
+
+* **[PyAnnotator](https://github.com/AhmedShehab/pyannotator)** — Unified annotation interface supporting Supervisely, Roboflow, and Label Studio.
+* **[Control Simulator](https://github.com/AhmedShehab/control_simulator)** — Interactive control theory learning and simulation platform.
+* **[AI Exam Generator](https://github.com/AhmedShehab/ExamGenerator)** — AI-assisted exam generation system using genetic algorithms for question optimization.
 
 ---
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Shehab-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed4ehab)
-[![Email](https://img.shields.io/badge/Email-ahmed4ehab@yahoo.com-red?style=flat&logo=gmail)](mailto:ahmed4ehab@yahoo.com)
-**Phone:** +20 1554992081  
+## Education
+
+**BSc in Computer and Systems Engineering** — Minia University
+Graduated with honors (3rd in class)
+
+---
+
+## Contact
+
+* LinkedIn: Ahmed Shehab
+* Email: [ahmed4ehab@yahoo.com](mailto:ahmed4ehab@yahoo.com)
+* Phone: +20 1554992081
